@@ -1,0 +1,7 @@
+video_id,category_folder,relative_path,face_label,audio_label
+FakeVideo-FakeAudio,FakeAVCeleb_v1.2,FakeVideo-FakeAudio,real,real
+FakeVideo-RealAudio,FakeAVCeleb_v1.2,FakeVideo-RealAudio,real,real
+README.txt,FakeAVCeleb_v1.2,README.txt,real,real
+RealVideo-FakeAudio,FakeAVCeleb_v1.2,RealVideo-FakeAudio,real,real
+RealVideo-RealAudio,FakeAVCeleb_v1.2,RealVideo-RealAudio,real,real
+meta_data.csv,FakeAVCeleb_v1.2,meta_data.csv,real,real
